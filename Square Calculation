@@ -1,7 +1,8 @@
-# eto e = o 
-#1. o to o = o
-#2. e to o = e
-#3. o to e = e 
+# e to e = o 
+# o to o = o
+# e to o = e
+# o to e = e 
+# to = ^ , e = White , o = Black
 
 e = 1
 o = 0
